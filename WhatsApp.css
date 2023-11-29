@@ -1,0 +1,15 @@
+.social-link {
+    display: inline-block;
+    padding: 10px;
+    transition: 0.3s;
+}
+
+.social-link:hover {
+    background-color: #f1f1f1;
+    border-radius: 50%;
+}
+
+.social-link img {
+    width: 30px;
+    height: 30px;
+}
